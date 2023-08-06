@@ -28,7 +28,7 @@
 
 
 <details>
-<summary> 2023 8/7(월) ~ 8/3(일)</summary>
+<summary> 2023 8/7(월) ~ 8/13(일)</summary>
 <div>
 
 8/7(월)
